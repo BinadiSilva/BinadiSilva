@@ -1,8 +1,8 @@
 # Hi, I'm Binadi Silva 👋
 
-💻 Aspiring Data Engineer | Undergraduate @SLIIT & @Rajarata University  
-📊 Passionate about Data Science, Data Engineering, and IT Projects  
-🌍 Based in Gampaha, Sri Lanka  
+Aspiring Data Engineer | Undergraduate @SLIIT & @Rajarata University  
+Passionate about Data Science, Data Engineering, and IT Projects  
+Based in Gampaha, Sri Lanka  
 
 ### Skills
 - Python, SQL, C Programming  
