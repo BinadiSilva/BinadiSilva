@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Binadi Silva 👋
 
-<!--
-**BinadiSilva/BinadiSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Data Engineer | Undergraduate @SLIIT & @Rajarata University  
+📊 Passionate about Data Science, Data Engineering, and IT Projects  
+🌍 Based in Gampaha, Sri Lanka  
 
-Here are some ideas to get you started:
+### Skills
+- Python, SQL, C Programming  
+- Data Analysis & Visualization  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- MediSync - AI-powered medication reminder app  
+- Smart Lab - Medical laboratory management system
